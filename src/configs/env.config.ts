@@ -1,6 +1,4 @@
 export const ENV = {
 	BASE_URL: process.env.NEXT_PUBLIC_BASE_URL!,
-	CONVEX_DEPLOYMENT: process.env.CONVEX_DEPLOYMENT!,
-	CONVEX_URL: process.env.NEXT_PUBLIC_CONVEX_URL!,
 	DEVELOPED_BY: process.env.NEXT_PUBLIC_DEVELOPED_BY || '/',
 };
