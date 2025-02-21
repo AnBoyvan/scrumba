@@ -1,0 +1,47 @@
+.ql-toolbar {
+	@apply !border-none !bg-slate-200 dark:!bg-slate-800;
+}
+
+.ql-toolbar .ql-formats:not(:last-child) {
+	@apply !border-r !border-slate-300 !pr-3 dark:!border-slate-700;
+}
+
+.ql-container {
+	font-family: 'Lato', sans-serif !important;
+	height: unset !important;
+	@apply !border-none;
+}
+
+.ql-editor {
+	font-family: 'Lato', sans-serif !important;
+	@apply !px-3 !py-2 !text-sm !font-normal !leading-[22px] !text-foreground;
+}
+
+.ql-editor a {
+	@apply !text-link;
+}
+
+.ql-editor a:hover {
+	@apply !underline;
+}
+
+.ql-renderer {
+	@apply !p-0;
+}
+
+.ql-editor::before {
+	font-family: 'Lato', sans-serif !important;
+	@apply !left-3 truncate !text-sm !font-normal !not-italic !text-slate-600 dark:!text-slate-500;
+}
+
+.ql-toolbar .ql-stroke {
+	@apply fill-none stroke-foreground text-foreground;
+}
+
+.ql-toolbar .ql-fill {
+	@apply fill-foreground stroke-none text-foreground;
+}
+
+.ql-toolbar .ql-picker {
+	@apply fill-none stroke-foreground text-foreground;
+}

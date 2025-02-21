@@ -1,0 +1,8 @@
+{
+  "conversation": {
+    "hero": "This conversation is just between you and ",
+    "failure": "Failed to create or get conversation",
+    "not_found": "Conversation not found",
+    "parent_not_found": "Parent message not found"
+  }
+}

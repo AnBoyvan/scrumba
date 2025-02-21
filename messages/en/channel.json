@@ -1,0 +1,22 @@
+{
+  "channel": {
+    "add": "Add a channel",
+    "create_err": "Failed to create channel",
+    "created": "Channel created",
+    "delete": "Delete channel",
+    "delete_err": "Failed to delete channel",
+    "deleted": "Channel deleted",
+    "general": "general",
+    "hero_beginning": " This is the very beginning of the ",
+    "hero_channel": " channel",
+    "hero_created": "This channel was created on ",
+    "name": "Channel name",
+    "name_placeholder": "channel-name",
+    "new": "New channel",
+    "no_channel": "No channel found",
+    "not_found": "Channel not found",
+    "rename": "Rename this channel",
+    "update_err": "Failed to update channel",
+    "updated": "Channel updated"
+  }
+}

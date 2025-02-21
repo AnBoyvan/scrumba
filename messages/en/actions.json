@@ -1,0 +1,18 @@
+{
+	"actions": {
+		"add": "Add",
+		"back_home": "Back to home",
+		"cancel": "Cancel",
+		"close": "Close",
+		"confirm": "Confirm",
+		"continue": "Continue",
+		"create": "Create",
+		"edit": "Edit",
+		"invite_to": "Invite to ",
+		"leave": "Leave",
+		"remove": "Remove",
+		"reply": "Reply",
+		"save": "Save",
+		"upload": "Upload"
+	}
+}

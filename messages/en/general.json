@@ -1,0 +1,22 @@
+{
+	"general": {
+		"locale": {
+			"current": "en",
+			"uk": "UA",
+			"en": "EN",
+			"label": "Language",
+			"uk_full": "Ukrainian",
+			"en_full": "English",
+			"locale": "enUS"
+		},
+		"theme": {
+			"label": "Theme",
+			"light": "Light",
+			"dark": "Dark",
+			"system": "System"
+		},
+		"access_denied": "Access denied",
+		"page_not_found": "Page not found",
+		"smth_wrong": "Something went wrong"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"general": {
+		"locale": {
+			"current": "uk",
+			"uk": "UA",
+			"en": "EN",
+			"label": "Мова",
+			"uk_full": "Українська",
+			"en_full": "Англійська",
+			"locale": "uk"
+		},
+		"theme": {
+			"label": "Тема",
+			"light": "Світла",
+			"dark": "Темна",
+			"system": "Системна"
+		},
+		"access_denied": "Доступ заборонено",
+		"page_not_found": "Сторінку не зайдено",
+		"smth_wrong": "Щось пішло не так"
+	}
+}

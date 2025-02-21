@@ -1,0 +1,19 @@
+{
+	"user": {
+		"avatar_format": "JPG, PNG, SVG, JPEG or WEBP, up to 2 MB",
+		"avatar_size_exceed": "The file size exceeds the limit of 2MB",
+		"change_avatar": "Change avatar",
+		"change_info": "Change personal info",
+		"change_name": "Change name",
+		"delete": "Delete account",
+		"delete_allow": "You can delete account",
+		"delete_confirm": "Are you sure you want to delete your account?",
+		"delete_warn": "WARNING: Account deletion is permanent. You will not be able to recover your account.",
+		"contact_info": "Contact informaton",
+		"emai_address": "Email Address",
+		"info_updated": "Personal info updated",
+		"member_not_found": "Member not found",
+		"only_admin": "You cannot delete your account while being the only admin of workspace. Please designate a new admin first.",
+		"profile_not_found": "Profile not found"
+	}
+}
